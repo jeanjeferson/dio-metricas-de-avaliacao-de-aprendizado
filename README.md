@@ -1,7 +1,5 @@
 # 🌸 Modelo de Classificação de Flores Usando Transfer Learning
 
-<img src="/api/placeholder/800/300" alt="Banner do Projeto - Classificação de Flores" />
-
 ## 📋 Visão Geral do Projeto
 Este projeto implementa um modelo de deep learning para classificação de flores utilizando transfer learning com MobileNetV2. O modelo é treinado para classificar imagens em 5 categorias diferentes de flores:
 
@@ -74,7 +72,6 @@ jupyter notebook
 3. Execute todas as células do notebook sequencialmente
 
 ## 🏗️ Arquitetura do Modelo
-<img src="/api/placeholder/800/400" alt="Arquitetura do Modelo" />
 
 O projeto utiliza uma abordagem de transfer learning com MobileNetV2 como modelo base, com as seguintes modificações:
 - 📥 Shape de entrada: (224, 224, 3)
@@ -114,7 +111,6 @@ Onde:
 - 📐 S: Sensibilidade
 
 ## 📈 Resultados
-<img src="/api/placeholder/800/400" alt="Gráfico de Resultados" />
 
 ### 📊 Métricas de Desempenho
 O modelo alcança as seguintes métricas no conjunto de teste:
